@@ -2,7 +2,7 @@
   "channel": "family-beta",
   "version": "0.2.0-family-beta.8",
   "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.8/Dominic-Mind-OS-Beta-Setup.exe",
-  "installer_sha256": "10be644a000b2492bc54a198a30024dd71e26a048d5c0c1a1828e494357825ea",
+  "installer_sha256": "5c2977ab7031e66e92b70032fda3b3cb61d81be85eeb689b2623193fb0556686",
   "release_notes": "Family Beta updater lifecycle validation release.",
   "minimum_supported_version": "0.2.0-family-beta.7"
 }
