@@ -1,8 +1,8 @@
 {
   "channel": "family-beta",
-  "version": "0.2.0-family-beta.6",
-  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.6/Dominic-Mind-OS-Beta-Setup.exe",
-  "installer_sha256": "85b4a9ff33a0b183a7f9c2353b28399fc8b2c31f976a6e489be47a6f568e14b9",
-  "release_notes": "Family Beta updater channel validation release.",
-  "minimum_supported_version": "0.2.0-family-beta.5"
+  "version": "0.2.0-family-beta.8",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.8/Dominic-Mind-OS-Beta-Setup.exe",
+  "installer_sha256": "df62e7208b9657a0aa70701764485ab8fe70d6044c47f17e582b0e7c80b365ee",
+  "release_notes": "Family Beta updater lifecycle validation release.",
+  "minimum_supported_version": "0.2.0-family-beta.7"
 }
