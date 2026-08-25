@@ -1,1 +1,8 @@
-{"channel":"family-beta","version":"0.2.0-family-beta.12","installer_url":"https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.12/Dominic-Mind-OS-Beta-Setup.exe","installer_sha256":"d087368f165938cf67ccee95b0b93c4009eb25885b5b956338613b2e7bb820c0","release_notes":"Fixes Classification for existing archives created before semantic metadata support. Existing human choices are recovered automatically. Human classification works without prior AI evaluation. Archive/source remains preserved.","minimum_supported_version":"0.2.0-family-beta.10"}
+{
+  "channel": "family-beta",
+  "version": "0.2.0-family-beta.13",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.13/Dominic-Mind-OS-Beta-Setup.exe",
+  "installer_sha256": "7311663f3c5aa0a53115a75430e98589cacb0839d1db39009a8af3d7289178ad",
+  "release_notes": "First packaged human AI-review workflow: Needs Review, Looks right, Modify + Save.",
+  "minimum_supported_version": "0.2.0-family-beta.12"
+}
