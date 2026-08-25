@@ -1,7 +1,7 @@
 {
   "channel": "family-beta",
   "version": "0.2.0-family-beta.14",
-  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.14/Dominic-Mind-OS-Beta-Setup.exe",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.14/Dominic.Mind.OS.Beta.Setup.exe",
   "installer_sha256": "09dd35acf639aae48b0eb7e1b9765dcfd78a8378cd86435025153b4d3a97d648",
   "release_notes": "Review queue performance and robust canonical Reader handling.",
   "minimum_supported_version": "0.2.0-family-beta.13"
