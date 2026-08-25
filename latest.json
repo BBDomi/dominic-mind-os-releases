@@ -1,8 +1,1 @@
-{
-  "channel": "family-beta",
-  "version": "0.2.0-family-beta.10",
-  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.10/Dominic-Mind-OS-Beta-Setup.exe",
-  "installer_sha256": "5c68b99bbcf196eaddc14c306399142b1bdd0b80498ed17e0cbff3dd8741db94",
-  "release_notes": "Human-first classification: local human choices can be saved before AI evaluation and remain effective until reset.",
-  "minimum_supported_version": "0.2.0-family-beta.9"
-}
+{"channel":"family-beta","version":"0.2.0-family-beta.11","installer_url":"https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.11/Dominic-Mind-OS-Beta-Setup.exe","installer_sha256":"c64d10945f46df0d0ba9bfd43d9c083bb6944616d03d8a004d57a218c4ad090a","release_notes":"Family Beta .11 restores valid local archives after transient runtime state loss and preserves explicit disconnect intent.","minimum_supported_version":"0.2.0-family-beta.10"}`n
