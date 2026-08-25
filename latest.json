@@ -1,8 +1,8 @@
 {
   "channel": "family-beta",
-  "version": "0.2.0-family-beta.13",
-  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.13/Dominic-Mind-OS-Beta-Setup.exe",
-  "installer_sha256": "7311663f3c5aa0a53115a75430e98589cacb0839d1db39009a8af3d7289178ad",
-  "release_notes": "First packaged human AI-review workflow: Needs Review, Looks right, Modify + Save.",
-  "minimum_supported_version": "0.2.0-family-beta.12"
+  "version": "0.2.0-family-beta.14",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.14/Dominic-Mind-OS-Beta-Setup.exe",
+  "installer_sha256": "09dd35acF639AAE48B0EB7E1B9765DCFD78A8378CD86435025153B4D3A97D648".ToLowerInvariant(),
+  "release_notes": "Review queue performance and robust canonical Reader handling.",
+  "minimum_supported_version": "0.2.0-family-beta.13"
 }
