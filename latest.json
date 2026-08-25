@@ -1,8 +1,8 @@
 {
   "channel": "family-beta",
-  "version": "0.2.0-family-beta.9",
-  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.9/Dominic-Mind-OS-Beta-Setup.exe",
-  "installer_sha256": "f080250b7c2b1cbce10a5fc3b93d7d9851c793ede88dccec6401464aedbc1d0d",
-  "release_notes": "Classification Review UI release: local human corrections, AI / YOU / EFFECTIVE states and Reset to AI.",
-  "minimum_supported_version": "0.2.0-family-beta.8"
+  "version": "0.2.0-family-beta.10",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.10/Dominic-Mind-OS-Beta-Setup.exe",
+  "installer_sha256": "5c68b99bbcf196eaddc14c306399142b1bdd0b80498ed17e0cbff3dd8741db94",
+  "release_notes": "Human-first classification: local human choices can be saved before AI evaluation and remain effective until reset.",
+  "minimum_supported_version": "0.2.0-family-beta.9"
 }
