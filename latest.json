@@ -1,1 +1,8 @@
-{"channel":"family-beta","version":"0.2.0-family-beta.18","installer_url":"https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.18/Dominic.Mind.OS.Beta.Setup.exe","installer_sha256":"AE5EDDD94DC51C9DB08FAFB97170F91687C896C1501D9295671C9395CC8B8F6C","release_notes":"Graph V2 Living Atlas presentation and fast Universe V0 temporal view. Native Windows shell with canonical active-archive binding. The installer is unsigned; Windows SmartScreen may warn on another computer. No private archive data is included.","minimum_supported_version":"0.2.0-family-beta.14"}
+{
+  "channel": "family-beta",
+  "version": "0.2.0-family-beta.19",
+  "installer_url": "https://github.com/BBDomi/dominic-mind-os-releases/releases/download/v0.2.0-family-beta.19/Dominic.Mind.OS.Beta.Setup.exe",
+  "installer_sha256": "92834AEB29641B37CDD09D735D522745BFE7605B48D30258B50F32946ED26F8A",
+  "release_notes": "More scalable Graph exploration, chronological Universe views, and a bounded human-reviewed semantic proposal workflow. Your local archive remains separate from application updates. The installer is unsigned and Windows SmartScreen may warn on another computer.",
+  "minimum_supported_version": "0.2.0-family-beta.14"
+}
